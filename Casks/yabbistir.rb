@@ -1,6 +1,6 @@
 cask "yabbistir" do
-  version "0.5.1"
-  sha256 "507608062869c6b66f4b4fdcdf07868769b6b8f9a1e58954b8990707a90f8b40"
+  version "0.6.0"
+  sha256 "fc366b9535bc4f396ead6b9b0b107ba773d63e267d5697299da80f7f48497b2b"
 
   url "https://github.com/berkaygkc/yabbistir/releases/download/v#{version}/yabbistir-#{version}.dmg"
   name "yabbistir"
